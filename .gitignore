@@ -2,6 +2,9 @@
 claude.md
 PROGRESS.md
 
+# uv lockfile (contains internal URLs)
+uv.lock
+
 # Python
 __pycache__/
 *.py[cod]
